@@ -1,3 +1,0 @@
-# programrizky.r
-PROGRAMRIZKY.R
-
