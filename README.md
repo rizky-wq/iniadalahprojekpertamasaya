@@ -1,2 +1,3 @@
-# iniadalahprojekpertamasaya
-INI ADALAH PROJEK PERTAMA SAYA
+# programrizky.r
+PROGRAMRIZKY.R
+
